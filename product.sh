@@ -1,1 +1,1 @@
-my product details
+echo "my product details"
