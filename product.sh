@@ -1,2 +1,1 @@
- my product details
- this is my updated line
+my product details
